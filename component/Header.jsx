@@ -23,7 +23,7 @@ const Header = () => {
     <Box>
       <HStack pt={4} pb={4}>
         <Text fontSize={'xl'} textTransform='uppercase' fontWeight={'bold'}>
-          Spa Logo
+          The Spa
         </Text>
         <Spacer />
         <Hide below='md'>
@@ -31,7 +31,7 @@ const Header = () => {
             <HStack>
               <Icon color={'#4FC2D6'} w={7} h={7} as={CiLocationOn} />
               <Text>
-                Chaka Place, 3rd Floor <br /> Nairobi
+                Kilimani, 3rd Floor <br /> Nairobi
               </Text>
             </HStack>
             <HStack>

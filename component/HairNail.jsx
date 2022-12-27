@@ -12,7 +12,7 @@ const HairNail = () => {
           <Heading>Hair and Nail</Heading>
           <Box pt={4}>
             <Text>
-              The Olakira hair spa provides intensive hair treatments to fix
+              The spa provides intensive hair treatments to fix
               challenges faced by women all around the world including damaged
               hair from over coloring to dealing with volume challenges on thin
               & limp hair.
